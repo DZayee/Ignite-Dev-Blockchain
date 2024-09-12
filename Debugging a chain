@@ -1,0 +1,4 @@
+Debug Command
+ignite chain debug
+(dlv) break x/hello/client/cli/query_say_hello.go:14
+(dlv) continue
